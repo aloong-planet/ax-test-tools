@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "target": {"app": "/Applications/Fixture.app", "bundleID": "example.fixture"},
+  "steps": [{"op": "perform", "selector": {"AXRole": "AXWindow"}, "action": "AXRaise"}]
+}
